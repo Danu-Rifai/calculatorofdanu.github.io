@@ -1,0 +1,13 @@
+@media screen and (max-width: 699px) {
+    
+    body {
+        display: grid;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .title h1, h2 {
+        text-align: center;
+    }
+
+}
